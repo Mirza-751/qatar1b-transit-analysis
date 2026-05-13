@@ -3,7 +3,7 @@ Exoplanetary Anaysis - Qatar 1b
 
 # Qatar‑1b Transit Analysis (TASTE + TESS)
 
-**Full report**: [View PDF](Astrolab_2_Report.pdf)
+**Full report**: [View PDF](qatar1b-TESS-TASTE.pdf)
 
 ## Summary
 We refined the orbital and planetary parameters of the hot Jupiter Qatar‑1b using ground‑based TASTE data and space‑based TESS observations. Methods include aperture photometry, de‑trending (Huber spline), and MCMC modelling with BATMAN. Our results agree with Collins+2017 and confirm no strong TTVs.
